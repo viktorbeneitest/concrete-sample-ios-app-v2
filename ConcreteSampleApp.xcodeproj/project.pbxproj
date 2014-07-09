@@ -524,7 +524,6 @@
 		};
 		B603E492183AA454004F84D1 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 425318B9B206454581D97DA8 /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";

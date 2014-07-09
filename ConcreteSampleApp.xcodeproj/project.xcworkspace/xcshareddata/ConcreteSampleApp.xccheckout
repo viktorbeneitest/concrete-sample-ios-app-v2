@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>F6D69CD4-8904-4699-88D2-02926AE0E23A</string>
+	<string>C6BBD02B-ADA0-4D29-88F0-84B4CB3D000B</string>
 	<key>IDESourceControlProjectName</key>
 	<string>ConcreteSampleApp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>48FC9FF3-F787-4C1E-836A-36C43C60E1E4</key>
-		<string>ssh://bitbucket.org/concrete-team/concrete-sample-v2.git</string>
+		<key>70273FBD-CBBD-428C-9DC0-AFA58065CAA8</key>
+		<string>ssh://github.com/concretebuilder/concrete-sample-ios-app-v2.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ConcreteSampleApp.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>48FC9FF3-F787-4C1E-836A-36C43C60E1E4</key>
+		<key>70273FBD-CBBD-428C-9DC0-AFA58065CAA8</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://bitbucket.org/concrete-team/concrete-sample-v2.git</string>
+	<string>ssh://github.com/concretebuilder/concrete-sample-ios-app-v2.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>48FC9FF3-F787-4C1E-836A-36C43C60E1E4</string>
+	<string>70273FBD-CBBD-428C-9DC0-AFA58065CAA8</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>48FC9FF3-F787-4C1E-836A-36C43C60E1E4</string>
+			<string>70273FBD-CBBD-428C-9DC0-AFA58065CAA8</string>
 			<key>IDESourceControlWCCName</key>
-			<string>concrete-sample-v2</string>
+			<string>concrete-sample-ios-app-v2</string>
 		</dict>
 	</array>
 </dict>
