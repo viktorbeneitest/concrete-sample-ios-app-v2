@@ -1,7 +1,7 @@
-concrete-sample-ios-app-v2
+bitrise-sample-ios-app-v2
 ==========================
 
-V2 of Concrete Sample iOS app - smaller, faster
+V2 of Bitrise Sample iOS app - smaller, faster, and it's project configuration settings is non regular (for testing - for more see the *Notes* section)
 
 
 ## Notes:
