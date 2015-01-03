@@ -10,29 +10,29 @@
 	<string>ConcreteSampleApp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>70273FBD-CBBD-428C-9DC0-AFA58065CAA8</key>
-		<string>ssh://github.com/concretebuilder/concrete-sample-ios-app-v2.git</string>
+		<key>6CFC41945CCB56BBB9D8A4DE843D00D25604D42E</key>
+		<string>https://github.com/bitrise-io/concrete-sample-ios-app-v2.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ConcreteSampleApp.xcodeproj/project.xcworkspace</string>
+	<string>ConcreteSampleApp.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>70273FBD-CBBD-428C-9DC0-AFA58065CAA8</key>
+		<key>6CFC41945CCB56BBB9D8A4DE843D00D25604D42E</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/concretebuilder/concrete-sample-ios-app-v2.git</string>
+	<string>https://github.com/bitrise-io/concrete-sample-ios-app-v2.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>70273FBD-CBBD-428C-9DC0-AFA58065CAA8</string>
+	<string>6CFC41945CCB56BBB9D8A4DE843D00D25604D42E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>70273FBD-CBBD-428C-9DC0-AFA58065CAA8</string>
+			<string>6CFC41945CCB56BBB9D8A4DE843D00D25604D42E</string>
 			<key>IDESourceControlWCCName</key>
 			<string>concrete-sample-ios-app-v2</string>
 		</dict>
